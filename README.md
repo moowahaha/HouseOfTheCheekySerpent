@@ -15,5 +15,5 @@ entertainment from their Facebook & Twitter reports of jerks, hang cleans, hang 
 ## Please Don't Hurt Me, CrossFit
 
 It should go without saying that this has not been approved by the good people of CrossFit
-(a subsidiary of Haliburton, that's a joke). If a lawyer from CrossFit/Haliburton contacts me, all muscles flexed,
+(a subsidiary of Haliburton... I joke). If a lawyer from CrossFit/Haliburton contacts me, all muscles flexed,
 lifting his/her terrified children/grandparents over their head then I'll take this down immediately.
