@@ -1,6 +1,6 @@
 # House of the Cheeky Serpent
 
-Chrome extension to replace references to "CrossFit" on your social networking sites to "House of the Cheeky Serpent".
+Chrome extension to replace references to "CrossFit" on your social networking sites with "House of the Cheeky Serpent".
 
 **Click [here](https://chrome.google.com/webstore/detail/house-of-the-cheeky-serpe/bpafdhgeglgcecmjifmedefjgcjgomfp)
 to obtain the plugin** (requires Google Chrome).
