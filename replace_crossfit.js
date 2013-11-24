@@ -6,7 +6,7 @@ function replaceCrossFit() {
             var child = document.all(i).firstChild;
 
             if (child && child.data && child.tagName != 'INPUT' && child.tagName != 'TEXTAREA') {
-                child.data = child.data.replace(matcher, 'House of The Cheeky Serpent');
+                child.data = child.data.replace(matcher, 'House of the Cheeky Serpent');
             }
         }
     }
